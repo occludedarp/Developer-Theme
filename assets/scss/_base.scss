@@ -98,7 +98,10 @@ a.dotted-link {
         font-weight: bold;
     }
     .profile-image {
+        max-height: 50%;
+        max-width: 50%;
         margin-right: 30px;
+        border-radius: 100%;
     }
     .profile-content {
         
