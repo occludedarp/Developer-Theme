@@ -2,7 +2,7 @@ body {
     font-family: 'Lato', arial, sans-serif;   
     color: $text-color;
     background: $background;
-    font-size: 16px;
+    font-size: 18px;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -151,7 +151,7 @@ a.dotted-link {
     
     .section-inner {
         background: #fff;
-        padding: 30px;
+        padding: 50px;
     }
     .heading {
         margin-top: 0;
@@ -172,9 +172,6 @@ a.dotted-link {
 }
 
 /* About Section */
-.about {
-    
-}
 
 /* Latest Section */
 .latest {
