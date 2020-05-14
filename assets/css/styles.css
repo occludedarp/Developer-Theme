@@ -10,7 +10,7 @@ body {
   font-family: 'Lato', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
-  font-size: 16px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -185,10 +185,12 @@ a.dotted-link:hover {
 
 .section .section-inner {
   background: #fff;
-  padding: 30px;
+  padding: 50px;
 }
 
 .section .heading {
+  display: flex;
+  justify-content: center;
   margin-top: 0;
   margin-bottom: 30px;
   color: #545e69;
@@ -252,6 +254,7 @@ a.dotted-link:hover {
 }
 
 .latest .featured img {
+  
   margin-bottom: 30px;
 }
 
